@@ -1,0 +1,28 @@
+1) a := [3]int{12, 78, 50}
+
+
+2) var a [3]int //int array with length 3
+    a[0] = 12 // array index starts at 0
+    a[1] = 78
+    a[2] = 50
+    fmt.Println(a)
+	
+	
+3)  a := make([]int, 10001) 
+
+4) io := bufio.NewReader(os.Stdin)
+
+	fmt.Fscan(io, &n)
+	
+------------slice initialization using new keyword-------------
+var intSlice = new([50]int)[0:10]
+
+---------------------------------------------------------------
+C:\> cd D:\temp
+
+C:\>	
+
+          mutate([]rune(h))
+          func mutate (s rune[])
+
+
